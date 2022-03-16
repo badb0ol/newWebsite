@@ -19,7 +19,7 @@ nav {
   text-align: right;
 }
 
-nav ul .a: {
+nav ul .a {
   display: inline-block;
   list-style-type: none;
   /* removes bullet points */
